@@ -60,11 +60,11 @@ python app.py
 
 This project was developed as part of the IBM InnovateX Hackathon 2025, showcasing the use of IBM Granite LLM for solving real-world educational challenges using AI.
 
-👥 Team Name: CodeCrafters
+👥 **Team Name:** CodeCrafters
 
-👩‍💻 Team Members: Koyyada Anusha, Muddassir Shakhan
+👩‍💻 **Team Members:** Koyyada Anusha, Muddassir Shakhan
 
-📄 Initial Solution Submission: As part of the hackathon requirements, we submitted a project proposal and functional overview.
+📄 **Initial Solution Submission:** As part of the hackathon requirements, we submitted a project proposal and functional overview.
 
 🔗 View Submitted Solution (PDF)
 
@@ -72,7 +72,7 @@ We collaboratively developed this solution from idea to implementation to addres
 
 ## 🙋‍♀️ Developed By
 
-- Koyyada Anusha
+**Koyyada Anusha**
 
 B.Tech - CSE (AI & ML) - Year: 2026
 
@@ -84,7 +84,7 @@ LinkedIn:
 
 Email: koyyadaanusha05@gmail.com
 
-- Muddassir Shakhan
+**Muddassir Shakhan**
 
 B.Tech - CSE (AI & ML) - Year: 2026
 
@@ -106,11 +106,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ## ⭐️ Acknowledgements
 
-🤖 IBM Granite Models – for the open-source LLM
+🤖 **IBM Granite Models –** for the open-source LLM
 
-🧪 Gradio – for building the UI effortlessly
+🧪 **Gradio –** for building the UI effortlessly
 
-🧠 Hugging Face – for hosting the app
+🧠 **Hugging Face –** for hosting the app
 
 ---
 
