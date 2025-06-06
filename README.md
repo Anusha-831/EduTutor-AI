@@ -66,7 +66,7 @@ This project was developed as part of the IBM InnovateX Hackathon 2025, showcasi
 
 👩‍💻 **Team Members:** Koyyada Anusha, Muddassir Shakhan
 
-📄 **Initial Solution Submission:** As part of the hackathon requirements, we submitted a project proposal and functional overview. (View Submitted Solution)
+📄 **Initial Solution Submission:** As part of the hackathon requirements, we submitted a project proposal and functional overview. [View Submitted Solution](https://drive.google.com/file/d/12NDxLZR-52vAoWG8LvyqDe2P65nbdyws/view?usp=sharing)
 
 We collaboratively developed this solution from idea to implementation to address the core goals of personalized learning and automated assessment.
 
