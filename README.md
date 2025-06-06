@@ -45,9 +45,13 @@ Built using the powerful IBM Granite LLM and Gradio, this app enables intelligen
 If you want to run it locally:
 
 `bash
+
 git clone https://github.com/Anusha-831/EduTutor-AI.git
+
 cd EduTutor-AI
+
 pip install -r requirements.txt
+
 python app.py
 
 ---
@@ -57,19 +61,40 @@ python app.py
 This project was developed as part of the IBM InnovateX Hackathon 2025, showcasing the use of IBM Granite LLM for solving real-world educational challenges using AI.
 
 👥 Team Name: CodeCrafters
+
 👩‍💻 Team Members: Koyyada Anusha, Muddassir Shakhan
 
 📄 Initial Solution Submission: As part of the hackathon requirements, we submitted a project proposal and functional overview.
+
 🔗 View Submitted Solution (PDF)
 
 We collaboratively developed this solution from idea to implementation to address the core goals of personalized learning and automated assessment.
 
 ## 🙋‍♀️ Developed By
 
-Koyyada Anusha
-B.Tech CSE (AI & ML) | Vaageswari College of Engineering
-🔗 GitHub: @Anusha-831
-📧 Email: koyyadaanusha05@gmail.com
+- Koyyada Anusha
+
+B.Tech - CSE (AI & ML) - Year: 2026
+
+Vaageswari College of Engineering
+
+GitHub: @Anusha-831
+
+LinkedIn: 
+
+Email: koyyadaanusha05@gmail.com
+
+- Muddassir Shakhan
+
+B.Tech - CSE (AI & ML) - Year: 2026
+
+Vaageswari College of Engineering
+
+GitHub: 
+
+LinkedIn: 
+
+Email: 
 
 ---
 
