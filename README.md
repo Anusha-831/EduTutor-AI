@@ -66,19 +66,19 @@ This project was developed as part of the IBM InnovateX Hackathon 2025, showcasi
 
 👩‍💻 **Team Members:** Koyyada Anusha, Muddassir Shakhan
 
-📄 **Initial Solution Submission:** As part of the hackathon requirements, we submitted a project proposal and functional overview.
-
-🔗 View Submitted Solution (PDF)
+📄 **Initial Solution Submission:** As part of the hackathon requirements, we submitted a project proposal and functional overview. (View Submitted Solution)
 
 We collaboratively developed this solution from idea to implementation to address the core goals of personalized learning and automated assessment.
+
+---
 
 ## 🙋‍♀️ Developed By
 
 ### Koyyada Anusha
 
-B.Tech - CSE (AI & ML) - Year: 2026
+B.Tech - CSE (AI & ML) - Year: 2022-2026
 
-Vaageswari College of Engineering
+Vaageswari College of Engineering - Roll No: 22S41A6693
 
 GitHub: https://github.com/Anusha-831
 
@@ -88,9 +88,9 @@ Email: koyyadaanusha05@gmail.com
 
 ### Muddassir Shakhan
 
-B.Tech - CSE (AI & ML) - Year: 2026
+B.Tech - CSE (AI & ML) - Year: 2022-2026
 
-Vaageswari College of Engineering
+Vaageswari College of Engineering - Roll No: 22S41A66C0
 
 GitHub: https://github.com/Muddassirshakhan
 
