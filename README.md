@@ -4,7 +4,9 @@ EduTutor AI is an AI-powered personalized tutoring tool designed to generate cus
 
 Built using the powerful IBM Granite LLM and Gradio, this app enables intelligent learning and self-assessment.
 
-![EduTutor AI Banner](https://img.shields.io/badge/IBM%20Granite%20LLM-Model-blue) ![Gradio](https://img.shields.io/badge/Gradio-Interface-orange) ![Python](https://img.shields.io/badge/Made%20With-Python-green)
+[![IBM Granite LLM](https://img.shields.io/badge/IBM%20Granite%20LLM-Model-blue)](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct)
+[![Gradio](https://img.shields.io/badge/Gradio-Interface-orange)](https://www.gradio.app/)
+[![Python](https://img.shields.io/badge/Made%20With-Python-green)](https://www.python.org/)
 
 ---
 
