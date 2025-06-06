@@ -80,9 +80,9 @@ B.Tech - CSE (AI & ML) - Year: 2026
 
 Vaageswari College of Engineering
 
-GitHub: @Anusha-831
+GitHub: https://github.com/Anusha-831
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/anusha-koyyada-8b3032261
 
 Email: koyyadaanusha05@gmail.com
 
@@ -92,11 +92,11 @@ B.Tech - CSE (AI & ML) - Year: 2026
 
 Vaageswari College of Engineering
 
-GitHub: 
+GitHub: https://github.com/Muddassirshakhan
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/muddassir-shakhan-559740257
 
-Email: 
+Email: muddassirshakhan8@gmail.com
 
 ---
 
