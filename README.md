@@ -50,32 +50,30 @@ cd EduTutor-AI
 pip install -r requirements.txt
 python app.py
 
-🙋‍♀️ Developed By
+---
+
+## 🙋‍♀️ Developed By
 
 Koyyada Anusha
 B.Tech CSE (AI & ML) | Vaageswari College of Engineering
 🔗 GitHub: @Anusha-831
 📧 Email: koyyadaanusha05@gmail.com
 
-
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and share.
 
-
 ---
 
-⭐️ Acknowledgements
+## ⭐️ Acknowledgements
 
 🤖 IBM Granite Models – for the open-source LLM
 
 🧪 Gradio – for building the UI effortlessly
 
 🧠 Hugging Face – for hosting the app
-
-
 
 ---
 
