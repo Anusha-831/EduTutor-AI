@@ -87,7 +87,7 @@ interface = gr.Interface(
         gr.Textbox(label="Generated Quiz", show_copy_button=True),
         gr.Textbox(label="Personalized Feedback", show_copy_button=True)
     ],
-    title="EduTutor AI – Personalized Learning & Assessment",
+    title="EduTutor AI – Personalized Learning & Assessment System",
     description="AI-powered quiz and feedback generator using IBM Granite LLM"
 )
 
