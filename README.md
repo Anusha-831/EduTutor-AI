@@ -74,7 +74,7 @@ We collaboratively developed this solution from idea to implementation to addres
 
 ## 🙋‍♀️ Developed By
 
-**Koyyada Anusha**
+### Koyyada Anusha
 
 B.Tech - CSE (AI & ML) - Year: 2026
 
@@ -86,7 +86,7 @@ LinkedIn: https://www.linkedin.com/in/anusha-koyyada-8b3032261
 
 Email: koyyadaanusha05@gmail.com
 
-**Muddassir Shakhan**
+### Muddassir Shakhan
 
 B.Tech - CSE (AI & ML) - Year: 2026
 
