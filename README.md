@@ -10,54 +10,6 @@ Built using the powerful IBM Granite LLM and Gradio, this app enables intelligen
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Click here to use EduTutor AI](https://huggingface.co/spaces/Anusha831/EduTutor-AI)
-
----
-
-## 💡 Features
-
-- 🔍 Topic-Based Quiz Generation: Enter any topic (e.g., Algebra, History, Physics) and get a set of tailored multiple-choice questions.
-- 📊 Score-Aware Feedback: Receive personalized feedback and learning tips based on your performance.
-- 🤖 Powered by IBM Granite LLM: High-quality AI responses backed by a powerful open-source LLM.
-- 🧠 No Coding Required: User-friendly interface with sliders and input boxes using Gradio.
-- 🌐 Deploys on Hugging Face Spaces: Free, fast, and publicly accessible.
-
----
-
-## 🛠️ Technologies Used
-
-- 🧠 IBM Granite 3.3 2B Instruct LLM (via Hugging Face)
-- 🐍 Python
-- 🎛️ Gradio – For building interactive UI
-- 📚 Transformers by Hugging Face
-- 💻 Google Colab & GitHub for development
-
----
-
-## 📷 App Preview
-
-![App Screenshot](https://i.imgur.com/O7vEFXh.png)
-
----
-
-## 📦 Installation & Setup (Optional for Local Use)
-
-If you want to run it locally:
-
-`bash
-
-git clone https://github.com/Anusha-831/EduTutor-AI.git
-
-cd EduTutor-AI
-
-pip install -r requirements.txt
-
-python app.py
-
----
-
 ## 🎯 Submission for IBM InnovateX Hackathon 2025
 
 This project was developed as part of the IBM InnovateX Hackathon 2025, showcasing the use of IBM Granite LLM for solving real-world educational challenges using AI.
@@ -97,6 +49,54 @@ GitHub: https://github.com/Muddassirshakhan
 LinkedIn: https://www.linkedin.com/in/muddassir-shakhan-559740257
 
 Email: muddassirshakhan8@gmail.com
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Click here to use EduTutor AI](https://huggingface.co/spaces/Anusha831/EduTutor-AI)
+
+---
+
+## 💡 Features
+
+- 🔍 Topic-Based Quiz Generation: Enter any topic (e.g., Algebra, History, Physics) and get a set of tailored multiple-choice questions.
+- 📊 Score-Aware Feedback: Receive personalized feedback and learning tips based on your performance.
+- 🤖 Powered by IBM Granite LLM: High-quality AI responses backed by a powerful open-source LLM.
+- 🧠 No Coding Required: User-friendly interface with sliders and input boxes using Gradio.
+- 🌐 Deploys on Hugging Face Spaces: Free, fast, and publicly accessible.
+
+---
+
+## 🛠️ Technologies Used
+
+- 🧠 IBM Granite 3.3 2B Instruct LLM (via Hugging Face)
+- 🐍 Python
+- 🎛️ Gradio – For building interactive UI
+- 📚 Transformers by Hugging Face
+- 💻 Google Colab & GitHub for development
+
+---
+
+## 📷 App Preview
+
+![App Screenshot](https://github.com/user-attachments/assets/04a8c40a-c165-4b79-9f05-93c752894b23)
+
+---
+
+## 📦 Installation & Setup (Optional for Local Use)
+
+If you want to run it locally:
+
+`bash
+
+git clone https://github.com/Anusha-831/EduTutor-AI.git
+
+cd EduTutor-AI
+
+pip install -r requirements.txt
+
+python app.py
 
 ---
 
