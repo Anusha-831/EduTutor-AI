@@ -80,7 +80,8 @@ Email: muddassirshakhan8@gmail.com
 
 ## 📷 App Preview
 
-![App Screenshot](https://github.com/user-attachments/assets/04a8c40a-c165-4b79-9f05-93c752894b23)
+![App Screenshot](https://github.com/user-attachments/assets/57db935d-cd12-4693-918f-903af65a77bf)
+![App Screenshot](https://github.com/user-attachments/assets/59a890c9-5c58-4313-a900-7af783e6f343)
 
 ---
 
