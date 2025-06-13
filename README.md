@@ -1,8 +1,8 @@
 # 🎓 EduTutor AI – Personalized Learning & Assessment System
 
-EduTutor AI is an AI-powered personalized tutoring tool designed to generate custom quizzes and feedback based on a student's score and topic of interest.
+EduTutor AI is an AI-powered personalized learning assistant built for the IBM InnovateX Hackathon 2025. It helps students generate quizzes, feedback, summaries, flashcards, study plans, and much more — tailored to their learning level and performance.
 
-Built using the powerful IBM Granite LLM and Gradio, this app enables intelligent learning and self-assessment.
+This project uses IBM Granite LLM (granite-3.3-2b-instruct) via Hugging Face and is developed using Python, Gradio, and Google Colab for seamless interactivity and accessibility.
 
 [![IBM Granite LLM](https://img.shields.io/badge/IBM%20Granite%20LLM-Model-blue)](https://huggingface.co/ibm-granite/granite-3.3-2b-instruct)
 [![Gradio](https://img.shields.io/badge/Gradio-Interface-orange)](https://www.gradio.app/)
@@ -58,6 +58,15 @@ Email: muddassirshakhan8@gmail.com
 
 ---
 
+## 💡 Project Highlights
+
+- 🧠 Powered by IBM Granite LLM
+- 🎯 Adaptive and personalized based on student scores
+- ⚡ Clean and fast UI using Gradio
+- 📚 Covers all major educational support tools
+
+---
+
 ## 💡 Features
 
 - 🔍 Topic-Based Quiz Generation: Enter any topic (e.g., Algebra, History, Physics) and get a set of tailored multiple-choice questions.
@@ -70,11 +79,51 @@ Email: muddassirshakhan8@gmail.com
 
 ## 🛠️ Technologies Used
 
-- 🧠 IBM Granite 3.3 2B Instruct LLM (via Hugging Face)
 - 🐍 Python
+- 🧠 IBM Granite LLM (ibm-granite/granite-3.3-2b-instruct)
+- 📚 Hugging Face Transformers
 - 🎛️ Gradio – For building interactive UI
-- 📚 Transformers by Hugging Face
-- 💻 Google Colab & GitHub for development
+- 💻 Google Colab (for development & execution)
+
+---
+
+## ✨ Functionalities (12 Total)
+
+MCQ Quiz Generator
+→ Creates multiple-choice quizzes based on subject and student's score.
+
+Personalized Feedback
+→ AI-generated, friendly suggestions based on student performance.
+
+Recommended Learning Resources
+→ Curated free online learning resources (websites, YouTube, etc.)
+
+Summary Notes
+→ Beginner-friendly explanation of the given topic.
+
+Adaptive Question Suggestion
+→ One question based on student’s performance (Easy/Medium/Hard).
+
+Concept-Wise MCQ Generation
+→ 3 MCQs based on a sub-topic within the subject.
+
+Fill in the Blanks Generator
+→ 5 fill-in-the-blank questions with answers for core understanding.
+
+Important Points Summary
+→ 7 key bullet points to remember for the topic.
+
+Flashcards Generator
+→ Flashcards in Q&A format to enhance revision and retention.
+
+Misconception Correction
+→ Common mistakes students make and the correct explanations.
+
+Confidence Score Analysis
+→ Insight into student confidence level based on their score.
+
+5-Day Study Plan Generator
+→ Customized study plan to improve student learning step-by-step.
 
 ---
 
