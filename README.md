@@ -98,31 +98,31 @@ Email: muddassirshakhan8@gmail.com
 **3. Recommended Learning Resources**
 → Curated free online learning resources (websites, YouTube, etc.)
 
-**Summary Notes**
+**4. Summary Notes**
 → Beginner-friendly explanation of the given topic.
 
-**Adaptive Question Suggestion**
+**5. Adaptive Question Suggestion**
 → One question based on student’s performance (Easy/Medium/Hard).
 
-**Concept-Wise MCQ Generation**
+**6. Concept-Wise MCQ Generation**
 → 3 MCQs based on a sub-topic within the subject.
 
-**Fill in the Blanks Generator**
+**7. Fill in the Blanks Generator**
 → 5 fill-in-the-blank questions with answers for core understanding.
 
-**Important Points Summary**
+**8. Important Points Summary**
 → 7 key bullet points to remember for the topic.
 
-**Flashcards Generator**
+**9. Flashcards Generator**
 → Flashcards in Q&A format to enhance revision and retention.
 
-**Misconception Correction**
+**10. Misconception Correction**
 → Common mistakes students make and the correct explanations.
 
-**Confidence Score Analysis**
+**11. Confidence Score Analysis**
 → Insight into student confidence level based on their score.
 
-**5-Day Study Plan Generator**
+**12. 5-Day Study Plan Generator**
 → Customized study plan to improve student learning step-by-step.
 
 ---
