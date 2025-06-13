@@ -89,13 +89,13 @@ Email: muddassirshakhan8@gmail.com
 
 ## ✨ Functionalities (12 Total)
 
-**MCQ Quiz Generator**
+**1. MCQ Quiz Generator**
 → Creates multiple-choice quizzes based on subject and student's score.
 
-**Personalized Feedback**
+**2. Personalized Feedback**
 → AI-generated, friendly suggestions based on student performance.
 
-**Recommended Learning Resources**
+**3. Recommended Learning Resources**
 → Curated free online learning resources (websites, YouTube, etc.)
 
 **Summary Notes**
