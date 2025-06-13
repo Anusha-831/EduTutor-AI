@@ -89,40 +89,40 @@ Email: muddassirshakhan8@gmail.com
 
 ## ✨ Functionalities (12 Total)
 
-MCQ Quiz Generator
+**MCQ Quiz Generator**
 → Creates multiple-choice quizzes based on subject and student's score.
 
-Personalized Feedback
+**Personalized Feedback**
 → AI-generated, friendly suggestions based on student performance.
 
-Recommended Learning Resources
+**Recommended Learning Resources**
 → Curated free online learning resources (websites, YouTube, etc.)
 
-Summary Notes
+**Summary Notes**
 → Beginner-friendly explanation of the given topic.
 
-Adaptive Question Suggestion
+**Adaptive Question Suggestion**
 → One question based on student’s performance (Easy/Medium/Hard).
 
-Concept-Wise MCQ Generation
+**Concept-Wise MCQ Generation**
 → 3 MCQs based on a sub-topic within the subject.
 
-Fill in the Blanks Generator
+**Fill in the Blanks Generator**
 → 5 fill-in-the-blank questions with answers for core understanding.
 
-Important Points Summary
+**Important Points Summary**
 → 7 key bullet points to remember for the topic.
 
-Flashcards Generator
+**Flashcards Generator**
 → Flashcards in Q&A format to enhance revision and retention.
 
-Misconception Correction
+**Misconception Correction**
 → Common mistakes students make and the correct explanations.
 
-Confidence Score Analysis
+**Confidence Score Analysis**
 → Insight into student confidence level based on their score.
 
-5-Day Study Plan Generator
+**5-Day Study Plan Generator**
 → Customized study plan to improve student learning step-by-step.
 
 ---
